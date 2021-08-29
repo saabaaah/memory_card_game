@@ -1,0 +1,13 @@
+body {
+	margin : 0;
+	text-align : center;
+}
+
+#monCanvas {
+	margin-top : 50px;
+	border : solid 1px black;
+}
+#monTimer {
+	/* agrandir la taille du timer */
+	font-size: : 2em;
+}
